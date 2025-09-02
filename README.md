@@ -3,7 +3,7 @@
 Antes de proceder con la instalación del programa voy a suponer que usted sabe de computadoras en general, lo que sabe un caracol acerca de un Fórmula 1, **nada**, por lo que le voy a explicar paso a paso cómo instalar el programa de manera intuitiva para que no se pierda en el proceso y pueda disfrutar de todas las nuevas ventajas que ofrecen las versiones más nuevas de mi programa.
 
 
-## **Proceso de Descarga e instalación de la nueva versión**
+## **Proceso de Descarga e instalación de versiones más nuevas**
 
 Vease el video, tiene toda la información que necesita:
 [¡Ver Video!](https://youtu.be/25tIBAkmvtI)
