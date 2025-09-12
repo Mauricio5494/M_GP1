@@ -1,6 +1,8 @@
 # **Leer antes de proceder con la instalación**
 
-Antes de proceder con la instalación del programa voy a suponer que usted sabe de computadoras en general, lo que sabe un caracol acerca de un Fórmula 1, **nada**, por lo que le voy a explicar paso a paso cómo instalar el programa de manera intuitiva para que no se pierda en el proceso y pueda disfrutar de todas las nuevas ventajas que ofrecen las versiones más nuevas de mi programa.
+Antes de proceder con la instalación del programa voy a suponer que usted sabe de computadoras en general, lo que sabe un caracol acerca de un Fórmula 1, **nada**, por lo que le voy a explicar cómo instalar el programa de manera intuitiva para que no se pierda en el proceso y pueda disfrutar de todas las nuevas ventajas que ofrecen las versiones más nuevas de mi programa.
+
+Más abajo se observan datos de gran importancia para el usuario.
 
 
 ## **Proceso de Descarga e instalación de versiones más nuevas**
@@ -26,8 +28,29 @@ Vease el video, tiene toda la información que necesita:
 
 - R: No, el instalador proporcionado se encarga de purgar todo lo de la versión anterior por lo que desinstalar manualmente no es necesario.
 
+## **Entorno de Pruebas**
+Si se encontró con este programa navegando por ahí o quizá me presenté yo y le dije que hacía esta clase de cosas y se olvidó de el usuario y contraseña del entorno de pruebas, acá van a estar guardadas:
+
+**Si nota que el programa tira error al iniciar, mandeme un mail a soportemasoftware@gmail.com porque seguramente no abrí la base de datos (no me cuesta nada hacerlo, pero se me pasa casi siempre ya que este programa no es usado por nadie ya que está en una fase muy temprana de desarrollo).**
+
+Este usuario tiene el rol de "usuario común".
+> Usuario -> echo
+
+> Contraseña  -> 10
+
+Este, por otra parte tiene el rol de "admin".
+> Usuario -> admin_echo
+
+> Contraseña -> 10
+
+---
+**(En progreso: [v0.4-alpha])**
+
+Los roles están pensados no para alterar la base de datos en general, sino para alterar su propio espacio de gestión, si es admin entonces tiene acceso al apartado de Gestion Empresarial donde podrá hacer una serie de cambios, informes, ver estadísticas de la empresa, compras y ventas con RUT a modo de informe y si es necesario, también realizar un cálculo salarial para sus empleados. También podrá ver (en base a las ventas realizadas y un capital ya sea a modo de presupuesto o fondos líquidos ingresado por ustéd) el total que ha recaudado (en bruto) con sus negocios.
+
+---
 ## **Aviso importante**
-Este proceso NO eliminará las tablas con los productos que usted ingresó, pero deberá de volver a configurar los dispositivos como el escáner de códigos de barras o la impresora térmica si es que las configuró en una primera instancia. Recomiendo hacer este proceso lo antes posible ya que TODAS las actualizaciones son obligatorias y siempre son enviadas en horas prudentes (11:00 PM - 3:00 AM) y son enviadas todos los Viernes para que usted las descargue el Sábado ya que no tienen método de aviso, esto se hace así para evitar conflictos en su entorno de trabajo en horas laborales.
+El proceso de actualización del programa NO eliminará las tablas con los productos que usted ingresó, pero deberá de volver a configurar los dispositivos como el escáner de códigos de barras o la impresora térmica si es que las configuró en una primera instancia. Recomiendo hacer este proceso lo antes posible ya que TODAS las actualizaciones son obligatorias y siempre son enviadas en horas prudentes (11:00 PM - 3:00 AM) y son enviadas todos los Viernes para que usted las descargue el Sábado ya que no tienen método de aviso, esto se hace así para evitar conflictos en su entorno de trabajo en horas laborales.
 
 Si tiene dudas aparte, contacte con soporte: soportemasoftware@gmail.com
 
